@@ -1,0 +1,104 @@
+{
+  "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn": [
+    {
+      "wallet": "HtZHdSGqArjdxjD2PUUV7PTUyzhVxLjErKSXLNKbeoqs",
+      "netAmount": 15413586.46,
+      "totalBuys": 15413586.46,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "6eAEyxLy1JHM7cy3dfrZCJ2BSskATdVuAzTqXNDSRYAV",
+      "netAmount": 7151433.31,
+      "totalBuys": 7151433.31,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "62NzKubBUmMyC8xmqtkvWY4Gp1R3mqZkv1J22hC3545p",
+      "netAmount": 1367909.52,
+      "totalBuys": 1367909.52,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "D7UM7aFmMaT7qdE3vXWird1wVAY8mZyGMCyKDQWGTNV4",
+      "netAmount": 325354.62,
+      "totalBuys": 325354.62,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "BWuTXWt49QVP3VUFF6rn2KNFfXVKE2BgdZjPjaVemJd2",
+      "netAmount": 318481.66,
+      "totalBuys": 318481.66,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "DmiRcmcc2RGz7XPQ5ha85ndVyoA5CqdiNNAwgMwB9Qx3",
+      "netAmount": 247002.64,
+      "totalBuys": 247002.64,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "5WVm2o1o55wtsZP6GQphG44w7YiTfvpcNqeAJcHnX82K",
+      "netAmount": 211010.26,
+      "totalBuys": 211010.26,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "HbifPq7dGndxhAtiuTkw9wxHnRuMRqD1q58Pyx5NrQdo",
+      "netAmount": 197733.02,
+      "totalBuys": 197733.02,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "BWCgWN3sy2W4aGKGqb3Sh3YKvJt2E4bhTMDhw7rmSqeM",
+      "netAmount": 113001.02,
+      "totalBuys": 113001.02,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    },
+    {
+      "wallet": "EptYmqJRBGEE3fhY6ZGGQGJJzNXvWUU6B3GmikLUCtE9",
+      "netAmount": 75531.3,
+      "totalBuys": 75531.3,
+      "totalSells": 0,
+      "holdingScore": 1,
+      "minutesAfterLaunch": null,
+      "firstBuyTimestamp": null,
+      "smartScore": 100
+    }
+  ]
+}
